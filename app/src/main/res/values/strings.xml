@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My StaffRoom</string>
+
+    <string name="about">This mobile application was designed for teachers or professors of a particular institution to have a separate platform to interact with each other. Once a user signs up and logs in, contacts of all faculties of their institution is made available to them with whom they can interact by making use of the application\'s messaging service. Some other subtle features include customization of profile, setting your profile photo or changing any credential such as email, password or affiliated college. </string>
+</resources>
